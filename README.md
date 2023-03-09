@@ -9,7 +9,7 @@ Prerequisities:
     cqlsh 6.1.0
     Java OpenJDK 17 64bit
 
-    develpment:
+    development:
     VS Code 1.76.0
     Extension Pack for Java (e.g. maven)
     Spring Boot Extension Pack
